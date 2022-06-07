@@ -11,7 +11,7 @@ section {
     font-size: 35px;
     padding: 5px;
     text-transform: capitalize;
-    font-family: 'Parisienne', cursive;
+    font-family:cursive;
 }
 .firstname {
     color: white;
